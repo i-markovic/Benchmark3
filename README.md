@@ -1,3 +1,10 @@
+<!--
+  Title: Benchmark3
+  Description:Test "map" concept, find/access wstring element with index ID.
+  Author: Ivan Markovic
+  -->
+ <meta name='keywords' content='C++, find, ranges, find_if'>
+ 
 # Benchmark3
 
 ## Test "map" concept, find/access wstring element with index ID
