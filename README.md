@@ -1,15 +1,15 @@
 <!--
-  Title: Benchmark3
+  Title: C++ Benchmark 3
   Description:Test "map" concept, find/access wstring element with index ID.
   Author: Ivan Markovic
   -->
  <meta name='keywords' content='C++, find, ranges, find_if'>
  
-# Benchmark3
+# C++ Benchmark 3
 
-## Test "map" concept, find/access wstring element with index ID
+## Test C++ "map" concept, find/access wstring element with index ID
 
-Different ways to store <size_t,wstring> key/value and find specific element. Type wstring is choosen because it is common use case and wstring container can influence performace in a measureable way.
+Different ways to store <size_t,wstring> key/value and find specific element in C++. Type wstring is choosen because it is common use case and wstring container can influence performace in a measureable way.
 
 Configuration used:
 - MSVC 2019, i7 8 Core CPU
